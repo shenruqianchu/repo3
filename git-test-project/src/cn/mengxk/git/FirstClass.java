@@ -20,5 +20,6 @@ public class FirstClass {
         int j = 2;
         int k = i + j;
 
+        System.out.println("hello test");
     }
 }
